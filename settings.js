@@ -1,5 +1,5 @@
 const settings = {
-  packname: 'Knight Bot',
+  packname: 'Astro-AI Bot',
   author: 'D3V‎',
   botName: "Astro-AI--AstroJD",
   botOwner: 'DreamW0RLD Tech', // Your name
